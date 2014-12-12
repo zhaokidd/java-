@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/zy/Downloads/poi-bin-3.10.1-20140818/poi-3.10.1/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zy/Downloads/poi-bin-3.10.1-20140818/poi-3.10.1/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zy/Downloads/poi-bin-3.10.1-20140818/poi-3.10.1/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zy/Downloads/poi-bin-3.10.1-20140818/poi-3.10.1/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zy/Downloads/poi-bin-3.10.1-20140818/poi-3.10.1/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zy/Downloads/poi-bin-3.10.1-20140818/poi-3.10.1/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/ant.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/bcmail-jdk14-132.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/bcprov-jdk14-132.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/checkstyle-all-4.2.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/FontBox-0.1.0-dev.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/junit.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/log4j.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/lucene-core-2.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/lucene-demos-2.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/PDFBox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="F:/java大作业工程/xmlbeans-2.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
